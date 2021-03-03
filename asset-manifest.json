@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ae297dc3.chunk.css",
-    "main.js": "/Portfolio/static/js/main.3adb9f79.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.3adb9f79.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.64a9250f.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.64a9250f.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.57bed0a6.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.57bed0a6.js.map",
     "static/css/2.150d169a.chunk.css": "/Portfolio/static/css/2.150d169a.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/Md. Sakib Khan.54e988f8.jpg": "/Portfolio/static/media/Md. Sakib Khan.54e988f8.jpg",
     "static/media/Photo.990cea69.jpg": "/Portfolio/static/media/Photo.990cea69.jpg",
     "static/media/android.371e3f96.png": "/Portfolio/static/media/android.371e3f96.png",
+    "static/media/dataScience.93253e3d.png": "/Portfolio/static/media/dataScience.93253e3d.png",
     "static/media/logo.6ce24c58.svg": "/Portfolio/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
@@ -24,6 +25,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.ebda73cb.chunk.js",
     "static/css/main.ae297dc3.chunk.css",
-    "static/js/main.3adb9f79.chunk.js"
+    "static/js/main.64a9250f.chunk.js"
   ]
 }
