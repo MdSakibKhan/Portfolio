@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ae297dc3.chunk.css",
-    "main.js": "/Portfolio/static/js/main.7bc1371c.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.7bc1371c.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.f3be8795.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.f3be8795.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.57bed0a6.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.57bed0a6.js.map",
     "static/css/2.150d169a.chunk.css": "/Portfolio/static/css/2.150d169a.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/2.ebda73cb.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.ebda73cb.chunk.js.LICENSE.txt",
     "static/media/Md. Sakib Khan.54e988f8.jpg": "/Portfolio/static/media/Md. Sakib Khan.54e988f8.jpg",
     "static/media/Photo.990cea69.jpg": "/Portfolio/static/media/Photo.990cea69.jpg",
-    "static/media/Sakib_CV.e37a6067.pdf": "/Portfolio/static/media/Sakib_CV.e37a6067.pdf",
+    "static/media/Sakib_CV.3fdd97f5.pdf": "/Portfolio/static/media/Sakib_CV.3fdd97f5.pdf",
     "static/media/android.371e3f96.png": "/Portfolio/static/media/android.371e3f96.png",
     "static/media/dataScience.93253e3d.png": "/Portfolio/static/media/dataScience.93253e3d.png",
     "static/media/database.4ee664f8.png": "/Portfolio/static/media/database.4ee664f8.png",
@@ -27,6 +27,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.ebda73cb.chunk.js",
     "static/css/main.ae297dc3.chunk.css",
-    "static/js/main.7bc1371c.chunk.js"
+    "static/js/main.f3be8795.chunk.js"
   ]
 }
