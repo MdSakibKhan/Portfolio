@@ -67,7 +67,7 @@ class Projects extends Component{
               <li className = "text-left">Developed tuition search and post functionality for the existing registered users.</li>
               </ul>
               </p>
-              <a href="https://drive.google.com/file/d/14xu4wVXJtrfY_ckYXuVmfNI1D4fsksfr/view?usp=sharing" className="btn btn-primary">Project Video Link</a>
+              <a href="https://github.com/MdSakibKhan/Android_Project" className="btn btn-primary">Github Link</a>
             </div>
           </div>
             
