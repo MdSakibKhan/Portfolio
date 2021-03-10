@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b9565f45.chunk.css",
-    "main.js": "/Portfolio/static/js/main.8bd8f0b4.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.8bd8f0b4.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.03d3260c.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.03d3260c.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.9ad9ae8e.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.9ad9ae8e.js.map",
     "static/css/2.150d169a.chunk.css": "/Portfolio/static/css/2.150d169a.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/2.9d4e6c2c.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9d4e6c2c.chunk.js.LICENSE.txt",
     "static/media/Md. Sakib Khan.54e988f8.jpg": "/Portfolio/static/media/Md. Sakib Khan.54e988f8.jpg",
     "static/media/Photo.990cea69.jpg": "/Portfolio/static/media/Photo.990cea69.jpg",
-    "static/media/Sakib_CV.79b63cef.pdf": "/Portfolio/static/media/Sakib_CV.79b63cef.pdf",
+    "static/media/Sakib_CV.0b1226a6.pdf": "/Portfolio/static/media/Sakib_CV.0b1226a6.pdf",
     "static/media/android.371e3f96.png": "/Portfolio/static/media/android.371e3f96.png",
     "static/media/cal.fdd55154.png": "/Portfolio/static/media/cal.fdd55154.png",
     "static/media/css.1a1c0c42.png": "/Portfolio/static/media/css.1a1c0c42.png",
@@ -36,6 +36,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.9d4e6c2c.chunk.js",
     "static/css/main.b9565f45.chunk.css",
-    "static/js/main.8bd8f0b4.chunk.js"
+    "static/js/main.03d3260c.chunk.js"
   ]
 }
