@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ba73482e.chunk.css",
+    "main.css": "/Portfolio/static/css/main.694b06c5.chunk.css",
     "main.js": "/Portfolio/static/js/main.db7ac9fc.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.db7ac9fc.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.82721248.js",
@@ -12,7 +12,7 @@
     "static/js/3.521333c0.chunk.js.map": "/Portfolio/static/js/3.521333c0.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Portfolio/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.ba73482e.chunk.css.map": "/Portfolio/static/css/main.ba73482e.chunk.css.map",
+    "static/css/main.694b06c5.chunk.css.map": "/Portfolio/static/css/main.694b06c5.chunk.css.map",
     "static/js/2.ab4c8dfa.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.ab4c8dfa.chunk.js.LICENSE.txt",
     "static/media/Sakib.561fe7ee.png": "/Portfolio/static/media/Sakib.561fe7ee.png",
     "static/media/Sakib_CV.0b1226a6.pdf": "/Portfolio/static/media/Sakib_CV.0b1226a6.pdf",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.82721248.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.ab4c8dfa.chunk.js",
-    "static/css/main.ba73482e.chunk.css",
+    "static/css/main.694b06c5.chunk.css",
     "static/js/main.db7ac9fc.chunk.js"
   ]
 }
