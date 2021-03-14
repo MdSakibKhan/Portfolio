@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.694b06c5.chunk.css",
-    "main.js": "/Portfolio/static/js/main.db7ac9fc.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.db7ac9fc.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.95bade05.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.95bade05.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.82721248.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.82721248.js.map",
     "static/css/2.150d169a.chunk.css": "/Portfolio/static/css/2.150d169a.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/Sakib.561fe7ee.png": "/Portfolio/static/media/Sakib.561fe7ee.png",
     "static/media/Sakib_CV.0b1226a6.pdf": "/Portfolio/static/media/Sakib_CV.0b1226a6.pdf",
     "static/media/android.371e3f96.png": "/Portfolio/static/media/android.371e3f96.png",
+    "static/media/bd.e7203d3b.png": "/Portfolio/static/media/bd.e7203d3b.png",
     "static/media/cal.fdd55154.png": "/Portfolio/static/media/cal.fdd55154.png",
     "static/media/css.1a1c0c42.png": "/Portfolio/static/media/css.1a1c0c42.png",
     "static/media/dataScience.93253e3d.png": "/Portfolio/static/media/dataScience.93253e3d.png",
@@ -26,7 +27,6 @@
     "static/media/jsc.682635fd.png": "/Portfolio/static/media/jsc.682635fd.png",
     "static/media/jspen.8afafc5f.png": "/Portfolio/static/media/jspen.8afafc5f.png",
     "static/media/logo.6ce24c58.svg": "/Portfolio/static/media/logo.6ce24c58.svg",
-    "static/media/odlogo.73ac128a.png": "/Portfolio/static/media/odlogo.73ac128a.png",
     "static/media/pydt.42a9c030.png": "/Portfolio/static/media/pydt.42a9c030.png",
     "static/media/pyintro.3da0d5b9.png": "/Portfolio/static/media/pyintro.3da0d5b9.png"
   },
@@ -35,6 +35,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.ab4c8dfa.chunk.js",
     "static/css/main.694b06c5.chunk.css",
-    "static/js/main.db7ac9fc.chunk.js"
+    "static/js/main.95bade05.chunk.js"
   ]
 }
