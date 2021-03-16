@@ -1,28 +1,24 @@
 import React, {Component} from "react";
 import LeftView from "./LeftView"
-import RightView from "./RightView"
 import RightParent from "./RightParent";
 
-import "./Portfolio.css"
 
 class Portfolio extends Component{
     render(){
         return(
-            <div className = "grid-container" id = "portfolio">
-            
-            <div className = "row" id = "portrow" >
-            
-            <div className = "col-sm-3" id = "portfolio1">
+            <div className = "grid-container">
+
+    
+            <div className = "col-sm-3 float-left" id = "left">
             <LeftView></LeftView>
             </div>
 
-            <div className = "col-sm-9 border-left" id = "portfolio2">
+            <div className = "col-sm-9 float-left p-4" id = "right">
             <RightParent></RightParent>
             </div>
             
             
-            
-            </div>
+
             </div>  
         );
     }

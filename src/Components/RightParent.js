@@ -1,6 +1,6 @@
 import React, {Component} from "react"
 import RightTop from "./RightTop";
-import RightView from "./RightView"
+
 
 class RightParent extends Component{
     state = {
@@ -13,16 +13,9 @@ class RightParent extends Component{
 
     render(){
         return(
-        <div>
-            
-        <div className = "grid-container">
-        <RightTop Changed = {this.ButtonClickedHandler}></RightTop>
+        <div className = "grid-container w-100">
+         <RightTop></RightTop>
         </div>
-        <div className = "grid-container">
-        <RightView currentState = {this.state.Clicked}></RightView>
-        </div>
-
-        </div>  
         );
         
 

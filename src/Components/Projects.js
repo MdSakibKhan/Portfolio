@@ -3,6 +3,7 @@ import AndroidImage from "../Images/android.png"
 import DatabaseImage from "../Images/database.png"
 import odlogo from "../Images/odlogo.png";
 import cal from "../Images/cal.png"
+import bd from "../Images/bd.png"
 class Projects extends Component{
 
     render(){
@@ -10,8 +11,7 @@ class Projects extends Component{
 
             <div className = "grid-container">
 
-
-            <div className = "row">  
+            <div className="row">
             
             <div className = "col-sm-6 p-4">
             <div className="card container h-100 w-100" >
@@ -33,6 +33,28 @@ class Projects extends Component{
             <div className = "col-sm-6 p-4">
             
             <div className="card container h-100 w-100" >
+            <img className="card-img-top p-3" src={bd}></img>
+            <div className="card-body">
+              <h5 className="card-title">Exploring Bangladesh</h5>
+              <p className="card-text">
+              <text className = "text-left d-block"> <strong>Technologies used : </strong> <em> JavaScript, React framework, CSS3, Material UI, Bootstrap</em></text>
+              <ul className = "d-block">
+              <li className = "text-left">A website to show all the beautiful places in Bangladesh, District wise and details of each place.</li>
+              </ul>
+              </p>
+              <a href="https://mdsakibkhan.github.io/Beautiful_Bangladesh/" className="btn btn-primary">Live</a>
+            </div>
+          </div>
+            
+   
+            </div>
+            </div>
+            
+           <div className="row">
+
+            <div className = "col-sm-6 p-4">
+            
+            <div className="card container h-100 w-100" >
             <img className="card-img-top" src={cal}></img>
             <div className="card-body">
               <h5 className="card-title">Calculator-JS</h5>
@@ -49,10 +71,10 @@ class Projects extends Component{
    
             </div>
             
-            </div>
 
 
-            <div className = "row">  
+
+
             
             <div className = "col-sm-6 p-4">
             
@@ -74,7 +96,9 @@ class Projects extends Component{
             
             
             </div>
-
+            </div>
+             
+            <div className="row">
             <div className = "col-sm-6 p-4">
             
             <div className="card container h-100 w-100" >
@@ -96,12 +120,12 @@ class Projects extends Component{
             
             
             </div>
-            
-            
-            
-            
-            
             </div>
+            
+            
+            
+            
+
 
 
           </div>
