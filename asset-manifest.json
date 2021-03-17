@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8c4102ea.chunk.css",
-    "main.js": "/Portfolio/static/js/main.570d082b.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.570d082b.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.b2a3f551.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b2a3f551.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.82721248.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.82721248.js.map",
     "static/css/2.150d169a.chunk.css": "/Portfolio/static/css/2.150d169a.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.8c4102ea.chunk.css.map": "/Portfolio/static/css/main.8c4102ea.chunk.css.map",
     "static/js/2.ab4c8dfa.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.ab4c8dfa.chunk.js.LICENSE.txt",
     "static/media/Sakib.561fe7ee.png": "/Portfolio/static/media/Sakib.561fe7ee.png",
-    "static/media/Sakib_CV.0b1226a6.pdf": "/Portfolio/static/media/Sakib_CV.0b1226a6.pdf",
+    "static/media/Sakib_CV.be3534e9.pdf": "/Portfolio/static/media/Sakib_CV.be3534e9.pdf",
     "static/media/android.371e3f96.png": "/Portfolio/static/media/android.371e3f96.png",
     "static/media/bd.e7203d3b.png": "/Portfolio/static/media/bd.e7203d3b.png",
     "static/media/cal.fdd55154.png": "/Portfolio/static/media/cal.fdd55154.png",
@@ -35,6 +35,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.ab4c8dfa.chunk.js",
     "static/css/main.8c4102ea.chunk.css",
-    "static/js/main.570d082b.chunk.js"
+    "static/js/main.b2a3f551.chunk.js"
   ]
 }
