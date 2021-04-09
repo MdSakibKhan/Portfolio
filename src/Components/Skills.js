@@ -17,8 +17,9 @@ class Skills extends Component{
               <h5 className="card-title h2 font-weight-bold">Core Programming Languages</h5>
               <p className="card-text">
               <ul className = "d-block">
-              <li className = "text-left h4 ">JAVA</li>
-              <li className = "text-left h4">PYTHON</li>
+              <li className = "text-left h4 ">Java</li>
+              <li className = "text-left h4">Python</li>
+              <li className = "text-left h4">Dart</li>
               </ul>
               </p>
             </div>
@@ -42,6 +43,9 @@ class Skills extends Component{
               <li className = "text-left h4">Bootstrap</li>
               <li className = "text-left h4">JavaScript</li>
               <li className = "text-left h4">jQuery</li>
+              <li className = "text-left h4">React JS</li>
+              <li className = "text-left h4">Node JS</li>
+              <li className = "text-left h4">Express JS</li>
               <li className = "text-left h4">React JS</li>
               <li className = "text-left h4">PHP</li>
               </ul>
